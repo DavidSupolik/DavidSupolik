@@ -1,4 +1,10 @@
-## Hi there 👋
+&ensp; &nbsp;________.  
+&ensp; &nbsp;| Hello  |  
+&ensp; &nbsp;|&ensp; _____|  
+&ensp; &nbsp;|/  
+&nbsp;o  
+     /|\  
+     /\  
 
 <!--
 **DavidSupolik/DavidSupolik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
